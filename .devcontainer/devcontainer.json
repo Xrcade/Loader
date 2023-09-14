@@ -8,5 +8,6 @@
     "forwardPorts": [
       8080
     ],
-  "workspaceFolder": "/app"
+  "workspaceFolder": "/app",
+  "postCreateCommand": "npm install && npm start"
   }
